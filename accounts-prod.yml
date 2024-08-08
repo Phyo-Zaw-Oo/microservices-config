@@ -4,7 +4,7 @@ build:
   version: 1.0
 
 accounts:
-  message: "Welcome to Phyo Bank accounts related Production APIs "
+  message: "Welcome to Phyo Bank accounts related PRODUCTION APIs "
   contactDetails:
     name: "Phyo Zaw Oo - Developer"
     email: "{cipher}e186f0126971faff13e4324a36a6988e6ff49f34fbdfeff4fb5f0dc698734abbf39fe36bdbfe1ea9b16806ab50730038"
