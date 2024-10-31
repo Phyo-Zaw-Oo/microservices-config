@@ -4,7 +4,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to Phyo Bank loans related local APIs "
+  message: "Welcome to Phyo Bank loans related LOCAL APIs "
   contactDetails:
     name: "Phyo Zaw OoL - Developer"
     email: "phyozawoo@gmail.com"
